@@ -43,7 +43,7 @@ Atuação com resolução de incidentes, troubleshooting, acompanhamento de ambi
 
 Projetos, estudos, laboratórios e soluções desenvolvidas durante minha evolução profissional.
 
-👉 [Acessar meu portfólio]((https://github.com/alinedemoraiscosta/portfolio-ti))
+👉 [Acessar meu portfólio](https://github.com/alinedemoraiscosta/portfolio-ti)
 
 ### ⚖️ Website Profissional — Advocacia
 
