@@ -36,11 +36,6 @@ Atuação com resolução de incidentes, troubleshooting, acompanhamento de ambi
 
 ---
 
-## 📂 Projetos
-
-### 💻 Portfólio de TI
-
-Projetos, estudos, laboratórios e soluções desenvolvidas durante minha evolução profissional.
 
 ## 📂 Projetos
 
