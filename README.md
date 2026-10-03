@@ -39,14 +39,31 @@ Atuação com resolução de incidentes, troubleshooting, acompanhamento de ambi
 ## 📂 Projetos
 
 ### 💻 Portfólio de TI
+
 Projetos, estudos, laboratórios e soluções desenvolvidas durante minha evolução profissional.
 
-👉 [Acessar meu portfólio](https://github.com/alinedemoraiscosta/portfolio-ti)
+## 📂 Projetos
+
+### 💻 Portfólio de TI
+
+Projetos, estudos, laboratórios e soluções desenvolvidas durante minha evolução profissional.
+
+👉 [Acessar meu portfólio]((https://github.com/alinedemoraiscosta/portfolio-ti))
+
+### ⚖️ Website Profissional — Advocacia
+
+Website institucional desenvolvido para apresentação profissional de serviços jurídicos, com foco em design responsivo, identidade visual e experiência do usuário.
+
+👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/site-vinicius-leite-advocacia)
+
+🌐 [Acessar site online](https://vinicius-leite-ricardo-adv.netlify.app/)
 
 ### 🎬 Automação e IA
+
 Projetos envolvendo edição de vídeo, automação de tarefas e uso de Inteligência Artificial.
 
 ### 🌐 Projetos Web
+
 Criação de interfaces, aplicações e soluções web.
 
 ---
