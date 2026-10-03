@@ -53,9 +53,13 @@ Criação de interfaces, aplicações e soluções web.
 
 ## 🎓 Formação
 
-**Gestão da Tecnologia da Informação**
+**Gestão da Tecnologia da Informação**  
+Suporte, infraestrutura, redes, monitoramento e gestão de ambientes tecnológicos.
 
-Estudos voltados para infraestrutura, redes, segurança, suporte, monitoramento e gestão de ambientes tecnológicos.
+**Psicologia**  
+Conhecimentos em comportamento humano, comunicação, escuta, trabalho em equipe e relações interpessoais.
+
+A combinação entre tecnologia e comportamento humano amplia minha visão sobre usuários, equipes, processos e resolução de problemas.
 
 ---
 
