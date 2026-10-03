@@ -45,13 +45,6 @@ Projetos, estudos, laboratórios e soluções desenvolvidas durante minha evolu�
 
 👉 [Acessar meu portfólio](https://github.com/alinedemoraiscosta/portfolio-ti)
 
-### ⚖️ Website Profissional — Advocacia
-
-Website institucional desenvolvido para apresentação profissional de serviços jurídicos, com foco em design responsivo, identidade visual e experiência do usuário.
-
-👉 [Ver projeto no GitHub](https://github.com/alinedemoraiscosta/site-vinicius-leite-advocacia)
-
-🌐 [Acessar site online](https://vinicius-leite-ricardo-adv.netlify.app/)
 
 ### 🎬 Automação e IA
 
