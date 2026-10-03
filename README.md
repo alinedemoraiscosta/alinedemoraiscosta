@@ -10,16 +10,16 @@ Atuação com resolução de incidentes, troubleshooting, acompanhamento de ambi
 
 ## 🛠️ Tecnologias e ferramentas
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Infraestrutura-0052CC)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Redes-444444)
-![DNS](https://img.shields.io/badge/DNS-Redes-444444)
-![VPN](https://img.shields.io/badge/VPN-Conectividade-444444)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-B76E79?logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Infraestrutura-3A3A3A)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Redes-B76E79)
+![DNS](https://img.shields.io/badge/DNS-Redes-3A3A3A)
+![VPN](https://img.shields.io/badge/VPN-Conectividade-B76E79)
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Service%20Desk-81B5A1)
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoramento-D40000)
-![Grafana](https://img.shields.io/badge/Grafana-Monitoramento-F46800)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Produtividade-D83B01)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Service%20Desk-3A3A3A)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoramento-B76E79)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoramento-3A3A3A)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Produtividade-B76E79)
 
 ---
 
