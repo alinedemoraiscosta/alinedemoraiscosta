@@ -71,4 +71,4 @@ A combinação entre tecnologia e comportamento humano amplia minha visão sobre
 
 ---
 
-###🚀 Tecnologia com olhar humano e foco em soluções.
+## 🚀 Tecnologia com olhar humano e foco em soluções.
