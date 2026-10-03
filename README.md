@@ -70,7 +70,7 @@ A combinação entre tecnologia e comportamento humano amplia minha visão sobre
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aline%20Morais-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinedemoraispaulino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aline%20Morais-B76E79?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinedemoraispaulino)
 
 📧 alinedemoraiscosta@gmail.com
 
